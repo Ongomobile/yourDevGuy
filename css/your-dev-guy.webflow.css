@@ -252,6 +252,10 @@
     max-width: 100%;
   }
 
+  .subheadline {
+    font-size: 28px;
+  }
+
   .block-right {
     background-image: none;
     background-position: 0px 0px;
