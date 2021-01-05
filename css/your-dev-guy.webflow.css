@@ -143,7 +143,7 @@
   -ms-flex-align: center;
   align-items: center;
   background-color: #fbf6ff;
-  background-image: url('../images/Circle-02.svg'), none;
+  background-image: url("../images/Circle-02.svg"), none;
   background-position: 100% 100%, 100% 0%;
   background-size: auto, auto;
   background-repeat: no-repeat, no-repeat;
@@ -182,8 +182,15 @@
   margin-bottom: 23px;
 }
 
+.subheadline {
+  font-family: "Open Sans", sans-serif;
+  color: #eee;
+  font-size: 48px;
+  line-height: 48px;
+}
+
 .heading-3 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #eee;
   font-size: 48px;
   line-height: 48px;
@@ -252,4 +259,3 @@
     background-repeat: repeat;
   }
 }
-
